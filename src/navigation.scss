@@ -1,0 +1,23 @@
+
+.nav-wrapper{
+    max-width: 1290px;
+}
+
+.get-started-btn {
+    border:2px solid #8047d7;
+    padding: 9px 20px;
+    background-color: #8047d7;
+    color: #fff;
+    transition: .3s ease-in-out;
+    &:hover {
+      background-color: #fff;
+      border-color: #8047d7;
+      color: #8047d7;
+    }
+}
+  
+  .navbar {
+    box-shadow: 0 1px 2px 0 hsla(218,8%,60%,.08), 0 4px 8px 0 hsla(218,8%,60%,.04);
+    padding: 15px 0;
+}
+  
